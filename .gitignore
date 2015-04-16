@@ -1,0 +1,14 @@
+kingdoms.exe
+kingdoms
+
+cache/
+log/
+static/
+conf/
+
+.gitconfig
+.git-credentials
+
+node_modules/
+
+*.memprof
